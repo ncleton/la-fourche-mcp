@@ -1,0 +1,6 @@
+dist/tests/
+dist/scripts/
+src/
+maintenance/
+.env
+*.log
